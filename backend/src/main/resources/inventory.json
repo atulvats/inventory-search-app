@@ -1,0 +1,10 @@
+[
+  { "id": 1, "productName": "Ergonomic Chair", "category": "Furniture", "price": 199.99, "supplier": "Global Office" },
+  { "id": 2, "productName": "Office Desk", "category": "Furniture", "price": 299.99, "supplier": "Workspace Ltd" },
+  { "id": 3, "productName": "Wireless Mouse", "category": "Electronics", "price": 25.50, "supplier": "TechZone" },
+  { "id": 4, "productName": "Mechanical Keyboard", "category": "Electronics", "price": 75.00, "supplier": "TechZone" },
+  { "id": 5, "productName": "LED Monitor", "category": "Electronics", "price": 150.00, "supplier": "ScreenHub" },
+  { "id": 6, "productName": "Notebook Pack", "category": "Stationery", "price": 10.00, "supplier": "PaperWorld" },
+  { "id": 7, "productName": "Pen Set", "category": "Stationery", "price": 5.00, "supplier": "PaperWorld" },
+  { "id": 8, "productName": "Standing Desk", "category": "Furniture", "price": 450.00, "supplier": "Workspace Ltd" }
+]
